@@ -1,5 +1,7 @@
 # Company X
 
-# Project Based Solution
+[Live Link](https://nifty-mahavira-af08ba.netlify.app/)
 
-# Estimated Budget 100 Million
+- Project Based Solution
+
+- Estimated Budget 100 Million
